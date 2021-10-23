@@ -1,0 +1,4 @@
+Paul is in MSc Data Science at the University of London, Goldsmith College.
+Paul loves graph mining. Data mining. social media mining. 
+distributed systems, massively distributed and parallel systems.
+His favorite data structure is the dictionary and a graph.
