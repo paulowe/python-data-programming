@@ -12,6 +12,6 @@ def wordcount_fn(file_uri):
     return
 
 
-print(f"Word counts for your file: {wordcount_fn('./textfile.txt')}")
+print(f"TF (Frequency Distribution) for each word in your file: {wordcount_fn('./textfile.txt')}")
     
         
