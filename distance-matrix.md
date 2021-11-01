@@ -1,4 +1,4 @@
-# Personalized news recommendation using Distance matrix implementation
+# Personalized news recommendation using Distance matrix
 
 The distance matrix is useful in the Word2Vec algorithm. This algorithm is an example of how we can preserve semantic similarity in words.
 Given a corpus of news items/articles, we can run this algorithm to perform topic detection and automatically discover the topics in those articles and find the trends
