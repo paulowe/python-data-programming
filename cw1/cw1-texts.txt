@@ -1,0 +1,11 @@
+Triples extraction from Wikidata
+
+Wikidata is a free knowledge base that contains a huge amount of data, with a unique id for each entity and each relation. Entity identifiers are denoted by the letter Q followed by an integer and predicate (relation) identifiers are denoted by the letter P followed by an integer. For example, Google has id Q95 whereas the predicate “owned by” has the id P127. For our task, we would like to get Wikidata’s data for a list of companies – Recall from the definition of a knowledge graph this means we aim to extract (subject, predicate, object) triples from Wikidata.
+
+
+
+
+
+
+
+EDA should reveal what entity I need to monitor
